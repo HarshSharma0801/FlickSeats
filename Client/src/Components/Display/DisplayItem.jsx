@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router";
 import axios from "axios";
-import ReactHtmlParser from "react-html-parser";
+import parse from "html-react-parser";
 
 const DisplayItem = () => {
   const id = useParams();
@@ -79,7 +79,7 @@ const DisplayItem = () => {
                   <h1 className="text-3xl font-bold">{data.name}</h1>
                 </div>
                 <div>
-                  <p className="text-lg">{ReactHtmlParser(data.summary)}</p>
+                  <p className="text-lg">{parse(data.summary)}</p>
                 </div>
                 <div className="text-xl flex justify-between">
                   <div>Language - {data.language}</div>
