@@ -4,13 +4,14 @@ A Reactjs Application for Displaying , suearch querry , and book shows , Full pa
 
 ## Screeshots
 
-![Screenshot (65)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/aef84f5e-5e6d-4283-b837-fb5cd3de60a6)
+![Screenshot (65)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/897cd3d9-9ca9-4968-aafa-8169df0e232c)
 
-![Screenshot (64)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/91c8b482-7fc9-4d80-8d88-e268d682645f)
+![Screenshot (64)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/5b1b9647-48b6-4f27-90f7-50a123cef0a1)
 
-![Screenshot (63)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/5c02818d-514c-49f9-8574-b9ab5b1592c7)
+![Screenshot (63)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/6670bf19-1087-404d-9318-c92cdfc10a11)
 
-![Screenshot (62)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/977e5fc1-51d8-4cd6-81da-d0d908d2c430)
+![Screenshot (62)](https://github.com/HarshSharma0801/FlickSeats/assets/121893196/d37caca0-495e-4aae-b9d7-d7d7a5f858cc)
+
 
 
 ## Key Features 
